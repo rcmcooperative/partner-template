@@ -1,7 +1,7 @@
 ---
 name: "Community Call Checklist"
 about: Community Call Planning Checklist
-title:
+title: "[COMMUNITY CALL]"
 labels:
 assignees: ''
 

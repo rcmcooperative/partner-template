@@ -1,7 +1,7 @@
 ---
 name: "Contributor Bio"
 about: Contributor Bio
-title:
+title: "[CONTIBUTOR BIO]"
 labels:
 assignees: ''
 

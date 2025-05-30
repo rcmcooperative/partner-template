@@ -1,7 +1,7 @@
 ---
 name: "\U0001F5F9 Induction and Onboarding"
 about: Create an issue for each new member who need to be onboarded in the team
-title: "[INDUCTION]"
+title: "[ONBOARDING]"
 labels: ''
 assignees: ''
 

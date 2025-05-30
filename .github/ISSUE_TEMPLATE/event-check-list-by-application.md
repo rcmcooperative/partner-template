@@ -1,7 +1,7 @@
 ---
 name: "By-Application Event Checklist"
 about: By-Application Event Planning Check list
-title:
+title: "[EVENT]"
 labels:
 assignees: ''
 
