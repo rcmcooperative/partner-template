@@ -9,7 +9,9 @@ This repository builds on the template created and maintained by *The Turing Way
 
 When reusing this repository, update the information below with information about the intended partnership.
 
-Note the directory `private` is included to enable files to be stored locally without being included in the main repo (this directory is excluded by the [.gitignore](~/.gitignore)). This is useful where there are restrictions on sharing some information (GDPR) or license terms are yet to be agreed. 
+Note after templating this directory, you may wish to create an additional directory called `private`. 
+Use this directory to enable files to be stored locally without being included in the main repo (this directory is excluded by the [.gitignore](~/.gitignore)). 
+This is useful where there are restrictions on sharing some information (GDPR) or license terms are yet to be agreed. 
 
 ## Vision and Mission
 
