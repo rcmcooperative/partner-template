@@ -14,9 +14,10 @@ Use this directory to enable files to be stored locally without being included i
 This is useful where there are restrictions on sharing some information (GDPR) or license terms are yet to be agreed. 
 
 ## Vision and Mission
+See materials from [Community Pulse](https://www.communitypulse.io/50-metrics-kpis-and-okrs/) for more guidance on developing the vision and mission.
 
-- **Vision:** One sentence capturing the partnership's overarching vision.
-- **Mission:** One sentence defining the partnership's goals and target audience.
+- **Vision:** A short phrase describing the future you are ultimately working towards (your final destination or desired end state).
+- **Mission:** A one-sentence statement describing the reason your organization or program exists (what you do + who/what you do this for).
 
 ## About
 
