@@ -2,7 +2,7 @@
 
 Thank you for taking the time to contribute to this project. 🎉
 
-The **RCM Cooperative Partner Template** repository is developed under by the RCM Cooperative.
+The **RCM Cooperative Partnership with ADR** repository is developed by the RCM Cooperative.
 
 This project is being developed **openly** and invites contributions from **anyone interested** in reproducible data science who would like to get involved.
 You can suggest topics to include in this repository, report mistakes/bugs, create Pull Requests to fix an error, offer resources or help develop or review the training materials.
@@ -32,11 +32,11 @@ You can also share this repository with someone who might be interested to get i
 You can read our [README](./README.md) file to find details and the next milestones in the project.
 You can also read different issues in this repository and comment where you would like to be involved.
 
-🎉 It's my life's mission to enable reproducibility in data science and research
+🎉 It's my life's mission to support professional research communities
 ---
 
-Please share feedback on the contents proposed for setting up an online collaborative repository for data science and research.
-You are encouraged to review the material as we collaboratively develop them and get involved where you can.
+Please share feedback on the contents proposed for this partnership.
+You are encouraged to review the materials as we collaboratively develop them and get involved where you can.
 Please open a GitHub issue to suggest a new topic, contribute code, or let us know about errors/bugs.
 
 🛠 I am ready to contribute 
@@ -63,5 +63,3 @@ You are free to share and adapt the material for any purpose, even commercially,
 as long as you provide attribution (give appropriate credit, provide a link to the license, 
 and indicate if changes were made) in any reasonable manner, but not in any way that suggests the 
 licensor endorses you or your use, and with no additional restrictions.
-
-
