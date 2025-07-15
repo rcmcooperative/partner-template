@@ -12,6 +12,10 @@ assignees: ''
 Link the call/grant information below and check off each item when they are completed. 
 Add firther details (for example timelines for interviews or second rounds) and breakout into sub issues where necessary.
 
+## Fiscal host
+- [ ] Add to Project board
+- [ ] Tag OLS in budget sub-issue for review
+
 ## Main info
 - [ ] Call/Grant information online
 - [ ] Amount:
@@ -24,10 +28,15 @@ Add firther details (for example timelines for interviews or second rounds) and 
 - [ ] Expected start date:
 - [ ] Final outcome recieved: 
 
+## Documentation and Ways of working
+- [ ] Meeting notes: 
+- [ ] Comms channels:
 
 ## Submission materials
 - [ ] Draft prepared
 - [ ] Draft reviewed by Core partners
-- [ ] Budget
+- [ ] Budget drafted
+- [ ] Budget approved by OLS
 - [ ] Milestones
 - [ ] Submitted
+
