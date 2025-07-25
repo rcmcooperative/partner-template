@@ -1,7 +1,7 @@
 ---
 name: Funding Application
 about: Create an issue for each fund applied for
-title: "[FUNDING APPLICATION]"
+title: "[FUNDING]"
 labels: ''
 assignees: ''
 
