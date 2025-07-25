@@ -18,19 +18,22 @@ Add firther details (for example timelines for interviews or second rounds) and 
 
 ## Main info
 - [ ] Call/Grant information online
-- [ ] Amount:
-- [ ] Duration of project: 
 - [ ] Confirm eligability
+- [ ] Amount:
+- [ ] Currency:
+- [ ] Duration of project: 
+- [ ] Expected start date of award:
+- [ ] Expented end date of the award:
 - [ ] Closing date:
 - [ ] Confirm submission materials required (add to the list below)
 - [ ] Confirm core partners and contributors
 - [ ] Expected date for communication of outcomes:
-- [ ] Expected start date:
 - [ ] Final outcome recieved: 
 
 ## Documentation and Ways of working
-- [ ] Meeting notes: 
-- [ ] Comms channels:
+- [ ] Meeting notes:
+- [ ] Comms channels (slack workspace and channel):
+- [ ] Main directory for drafting:
 
 ## Submission materials
 - [ ] Draft prepared
@@ -40,3 +43,9 @@ Add firther details (for example timelines for interviews or second rounds) and 
 - [ ] Milestones
 - [ ] Submitted
 
+## Info for issue in the OLS invoice
+- [ ] Legal name of the organisation to be invoiced
+- [ ] Name and contact details of the person to subit the invoice to
+- [ ] General inance invoice
+- [ ] Bank account information of organisaiotn to be invoiced
+- [ ] above information sent to financemanagement@we-are-ols.org
