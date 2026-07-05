@@ -3,7 +3,7 @@
 > _A code of conduct is a set of rules outlining the norms, roles, and responsibilities or proper practices of an individual party or an organization._
 
 This Code of Conduct document outlines our expectations for participants within the team as well as this online repository (and the ideas, projects, and collaborations that might emerge from it).
-We also provide steps to reporting any concern, an uncomfortable situation or unacceptable behaviour by other participants. 
+We also provide steps to reporting any concern, an uncomfortable situation or unacceptable behaviour by other participants.
 We are committed to providing a welcoming, collaborative and inspiring experience for all members of this team and expect our code of conduct to be honoured.
 
 ## 2. Our Commitment
@@ -12,8 +12,8 @@ We as members, contributors, and leaders are committed to making participation i
 We commit to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy team, as well as the communities we facilitate.
 We encourage everyone in the team to participate in all team activities and work.
 
-We are committed to facilitating Communities of Practice that are connected with each others' work. Although we will fail at times, we seek to treat everyone as fairly and equally as possible. 
-Whenever a member has made a mistake, we expect them to take responsibility for it. 
+We are committed to facilitating Communities of Practice that are connected with each others' work. Although we will fail at times, we seek to treat everyone as fairly and equally as possible.
+Whenever a member has made a mistake, we expect them to take responsibility for it.
 If someone has been harmed or offended, it is our responsibility to listen carefully and respectfully and do our best to right the wrong.
 
 ## 3. Diversity Statement
@@ -25,37 +25,37 @@ We will not tolerate discrimination based on any of the protected characteristic
 
 - 4.1 **Be friendly and patient.**
 
-- 4.2 **Be welcoming**: 
+- 4.2 **Be welcoming**:
 We strive to build a welcoming and supportive team.
 As community facilitators, we also strive to apply this value to creating Communities of Practice that welcome and support members of all backgrounds and identities, while upholding our commitment and diversity statement (see 2.).
 
-- 4.3 **Be considerate**: 
-Your work will be used by other people, and you in turn will depend on the work of others. 
-Any decision you take will affect users and colleagues, and you should take those consequences into account when making decisions. 
-Remember that we're an open source project. 
+- 4.3 **Be considerate**:
+Your work will be used by other people, and you in turn will depend on the work of others.
+Any decision you take will affect users and colleagues, and you should take those consequences into account when making decisions.
+Remember that we're an open source project.
 This means that contributors might not be communicating in their primary language.
 
-- 4.4 **Be respectful**: 
-Not all of us will agree all the time, but disagreement is no excuse for poor behaviour and poor manners. 
-We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. 
-It’s important to remember that a project where people feel uncomfortable or threatened is not a productive one.
+- 4.4 **Be respectful**:
+Not all of us will agree all the time, but disagreement is no excuse for poor behaviour and poor manners.
+We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack.
+It's important to remember that a project where people feel uncomfortable or threatened is not a productive one.
 
-- 4.5 **Be careful in the words that we choose**: 
-We are professionals, and we conduct ourselves professionally. 
-Be kind to others. 
-Do not insult or put down other participants. 
-Harassment and other exclusionary behaviour aren't acceptable. 
-This includes, but is not limited to Violent threats or language directed against another person, discriminatory jokes and language, posting sexually explicit or violent material, posting (or threatening to post) other people’s personally identifying information (“doxing”), personal insults, especially those using racist or sexist terms, unwelcome sexual attention, advocating for or encouraging, any of the above behaviour, and repeated harassment of others.
+- 4.5 **Be careful in the words that we choose**:
+We are professionals, and we conduct ourselves professionally.
+Be kind to others.
+Do not insult or put down other participants.
+Harassment and other exclusionary behaviour aren't acceptable.
+This includes, but is not limited to Violent threats or language directed against another person, discriminatory jokes and language, posting sexually explicit or violent material, posting (or threatening to post) other people's personally identifying information ("doxing"), personal insults, especially those using racist or sexist terms, unwelcome sexual attention, advocating for or encouraging, any of the above behaviour, and repeated harassment of others.
 In general, if someone asks you to stop, then stop.
 
-- 4.6 **Try to understand why we disagree**: 
+- 4.6 **Try to understand why we disagree**:
 Disagreements, both social and technical, happen all the time.
-We must resolve disagreements and differing views constructively. 
-Remember that we’re different.
-Diversity contributes to the strength of our work, which is composed of people from a wide range of backgrounds. 
-Different people have different perspectives on issues. 
-Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. 
-Don’t forget that it is human to err and blaming each other doesn’t get us anywhere.
+We must resolve disagreements and differing views constructively.
+Remember that we're different.
+Diversity contributes to the strength of our work, which is composed of people from a wide range of backgrounds.
+Different people have different perspectives on issues.
+Being unable to understand why someone holds a viewpoint doesn't mean that they're wrong.
+Don't forget that it is human to err and blaming each other doesn't get us anywhere.
 Instead, focus on helping to resolve issues and learning from mistakes.
 
 ## 5. Examples of expected and unacceptable behaviour
@@ -83,21 +83,21 @@ community include:
 ## 6. Restorative Practice
 
 We want to establish a Code of Conduct that focuses on creating a welcoming and safe environment for everyone involved.
-If a participant does not abide by the Code of Conduct, we will use the “restorative practices” approach to handle the situation (see [International Institute for Restorative Practices](https://www.iirp.edu/restorative-practices/what-is-restorative-practices)). 
+If a participant does not abide by the Code of Conduct, we will use the "restorative practices" approach to handle the situation (see [International Institute for Restorative Practices](https://www.iirp.edu/restorative-practices/what-is-restorative-practices)).
 
 The restorative practice has its roots in indigenous practices employed in cultures all over the world.
-This is a way of looking at wrongdoing that focuses on repairing the harm done to people and relationships rather than on punishing offenders or wrongdoers. 
-Restorative practices form the basis for “restorative justice,” a term coined in 1970 in the context of social work and justice systems.
+This is a way of looking at wrongdoing that focuses on repairing the harm done to people and relationships rather than on punishing offenders or wrongdoers.
+Restorative practices form the basis for "restorative justice," a term coined in 1970 in the context of social work and justice systems.
 
-Restorative practices are based on the belief that human beings are happier, more cooperative and productive, and more likely to make positive changes in their behaviour when those in positions of authority do things with them, rather than to them or for them. 
-The most critical function of restorative practices is restoring and building relationships. 
+Restorative practices are based on the belief that human beings are happier, more cooperative and productive, and more likely to make positive changes in their behaviour when those in positions of authority do things with them, rather than to them or for them.
+The most critical function of restorative practices is restoring and building relationships.
 People in charge must meet with those they have wronged, explore what happened, and make necessary amends.
 
 ### 6.1 Restorative Practice Principles in this Code of Conduct
 
 1. Focuses on harm rather than the intention of wrongdoers.
 1. Prioritises persons affected and the consequent needs of victims and safety in communities.
-1. Addresses obligations of the wrongdoer resulting from those harms, as well as the team/community’s obligations to both victims and wrongdoers.
+1. Addresses obligations of the wrongdoer resulting from those harms, as well as the team/community's obligations to both victims and wrongdoers.
 1. Creates an opportunity for all individuals in this team, who have a legitimate stake in a given situation, to be heard and their concerns addressed.
 1. Seeks to right the wrongs that have been done so that victims feel safe and valued, and when possible and safe, wrongdoers feel restored to the team/community.
 1. Uses inclusive, collaborative processes giving fair opportunity to right the wrongs.
@@ -118,8 +118,8 @@ Restorative Practice Principles and Disciplines should guide the Open Research C
 
 ## 6.3 References for Restorative Practices
 
-The restorative practice statements and report handling process have been derived from the Eastern University 
-Academic Charter School (EUACS) Student Code of Conduct derived from the work of 
+The restorative practice statements and report handling process have been derived from the Eastern University
+Academic Charter School (EUACS) Student Code of Conduct derived from the work of
 [Ted Wachtel](https://www.iirp.edu/restorative-practices/what-is-restorative-practices)
 at International Institute for Restorative Practices (IIRP) ([download file](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwivncahh935AhVHa8AKHUyLDSMQFnoECAcQAQ&url=https%3A%2F%2Fsites.temple.edu%2Fsdejarnatt%2Ffiles%2F2015%2F11%2F2014-2015-Student-Code-of-ConductPGYSEasterUniverAcademCharteSchool.pdf&usg=AOvVaw1SxlwQQDVIaWCcED6Uj9KD)).
 
@@ -127,7 +127,7 @@ Restorative Practice Principles are based on Amstutz and Mullet (2005). Restorat
 
 ## 7. Scope
 
-**7.1** This Code of Conduct applies to all team members participating in the activities, events and processes taking place within or organised by the **RCM Cooperative**. 
+**7.1** This Code of Conduct applies to all team members participating in the activities, events and processes taking place within or organised by the **RCM Cooperative**.
 Specifically, our Code of Conduct applies to any conduct:
 - in interactions within the RCM Cooperative
 - at any RCM Cooperative activity, communication or event
@@ -163,27 +163,26 @@ Together we strive to foster an environment where everyone feels valued, respect
 
 **10.1** Code of Conduct Contact for Reporting
 
-If you experience or witness unacceptable behaviour, or have any other concerns, please report it by contacting the one of the Directors. They will involve another member of the Governance Committee when any potential conflict of interest with any of them may arise.
+If you experience or witness unacceptable behaviour, or have any other concerns, please report it by contacting one of the people named below. They will involve another member of the Governance Committee when any potential conflict of interest with any of them may arise.
 
-Directos:
-- Malvika Sharan (malvikasharan@gmail.com)
-- Emma Karoune (karoune@googlemail.com)
-- Cassandra Gould van Praag (cassandra.gouldvanpraag@rcmcooperative.com)
+- <Contact 1 name> (<email>)
+- <Contact 2 name> (<email>)
+- <Contact 3 name> (<email>)
 
 **10.2** In your report please include:
 
 - Your contact information.
 
 - Names (real, nicknames, or pseudonyms) of any individuals involved.
-If there are additional witnesses, please include them as well. 
-Your account of what occurred, and if you believe the incident is ongoing. 
+If there are additional witnesses, please include them as well.
+Your account of what occurred, and if you believe the incident is ongoing.
 If there is a publicly available record (e.g. a mailing list archive or a public IRC logger), please include a link.
 
 - Any additional information that may be helpful.
 
 **10.3** Confidentiality of Reporter(s)
 
-We will respect the confidentiality of reporter(s) all the time to protect individuals who have been harmed. 
+We will respect the confidentiality of reporter(s) all the time to protect individuals who have been harmed.
 In case the reporter's identity can not be hidden (if easily identified through the details of the report), the person handling the Code of Conduct report will discuss the possible ways to protect reporters from future incidents.
 
 ## 11. Terminology
@@ -227,8 +226,8 @@ A transparency report will be shared with the members of the RCM Cooperative tea
 
 ## 13. Resolutions for reports in the scope of this Code of Conduct
 
-Here are examples of possible resolutions to a report. 
-This list is not comprehensive, and any action necessary to reach a fair resolution will be taken as needed. 
+Here are examples of possible resolutions to a report.
+This list is not comprehensive, and any action necessary to reach a fair resolution will be taken as needed.
 Possible resolutions to an incident include:
 
 1. a private communication from community leaders, providing clarity around the nature of the violation and an explanation of why the
@@ -236,17 +235,17 @@ behaviour was inappropriate.
 1. an apology to the person harmed or the team/community as a whole - this will be done via the person handling the report.
 1. an action plan for the reportee to improve their awareness and correct future behaviours.
 1. reportee will have no interaction with the reporter (reporter name will be kept anonymous)
-1. reportee will have no unsolicited interaction with the reporter (in rare cases, when the reporter is not anonymous) and those enforcing the Code of Conduct. 
+1. reportee will have no unsolicited interaction with the reporter (in rare cases, when the reporter is not anonymous) and those enforcing the Code of Conduct.
 This includes avoiding interactions in community spaces as well as external channels like social media.
 1. not publishing the content (code, documents, media or other materials) that violated the Code of Conduct, until necessary changes have been made and agreed upon by the person handling the report.
-1. an imposed suspension, such as asking reportee to “take a week or month off” from the GitHub repo or team activity.
+1. an imposed suspension, such as asking reportee to "take a week or month off" from the GitHub repo or team activity.
 1. recommended training activity relevant to correcting the behaviour or building awareness/understanding required to right the wrongs.
-1. a stronger warning with consequences for continued behaviour. 
+1. a stronger warning with consequences for continued behaviour.
 1. if a resolution is not reached, the ombudsperson will be consulted and any delay or status update for the Code of Conduct enforcement will be communicated with the reporter and reportee.
 
 **13.1** After the Resolution is Agreed Upon
 
-Once a resolution is agreed upon, but before it is enacted, the person handling the report will contact the reporter and any other affected parties to explain the proposed resolution. 
+Once a resolution is agreed upon, but before it is enacted, the person handling the report will contact the reporter and any other affected parties to explain the proposed resolution.
 They will ask if this resolution is acceptable and must note feedback for the record. However, they are not required to act on this feedback.
 
 The reportee will be contacted via email informing them of the resolution.
@@ -255,7 +254,7 @@ The person handling the report will maintain records of all reports so that they
 
 ## 14. Conflict of Interest
 
-All reports will be kept confidential with details shared only with people involved in report handling. 
+All reports will be kept confidential with details shared only with people involved in report handling.
 If a person handling the report (team lead or programme director) is linked with the ongoing issue, they will declare their Conflict of Interest and remove themselves from any discussion related to the report handling.
 Resolution action may also include identifying appropriate members from within the RCM Cooperative if more support for the person handling the report is needed.
 

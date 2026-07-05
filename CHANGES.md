@@ -1,5 +1,6 @@
 # Provide a summary of changes made in this repository
 
+- Jul 5, 2026: Cassandra Gould van Praag created a Claude skill which populates the template repo, and changed the folder structure to be apprpriate for community projects. 
 - May 30, 2025: Cassandra Gould van Praag adapted this repo from https://github.com/the-turing-way/reproducible-project-template for a template for RCM Cooperative Partner interactions
 - Jan 23 2024: Instructions for how to use this repo were added, along with the template for README: https://github.com/the-turing-way/reproducible-project-template
 - Aug 31 2023: A copy of this template was added to the-turing-way GitHub organisation
