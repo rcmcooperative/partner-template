@@ -1,7 +1,7 @@
 ---
 name: "Contributor Bio"
 about: Contributor Bio
-title: "[CONTIBUTOR BIO]"
+title: "[CONTRIBUTOR BIO]"
 labels:
 assignees: ''
 
@@ -15,13 +15,16 @@ assignees: ''
 
 We are capturing this information in GitHub to facilitate a number of operational and collaboration goals. Using this issue will ensure:
 
-1. You can access this repository and will be able to contibute to any downstream collaborative works on github;
-2. You have an early opportunity to familiarise yourself with github frameworks and interfaces;
+1. You can access this repository and will be able to contribute to any downstream collaborative works on GitHub;
+2. You have an early opportunity to familiarise yourself with GitHub frameworks and interfaces;
 3. You have a mechanism to update your information if/when it changes over time, either before this issue is closed or by reopening it.
 
 ### What needs to be done?
 
-Fill in as much of the below information as you can now. After the event you add your own reflections on your contributions. Please tick the boxes once the relevent information has been provided. You are welcome to write in this section of the issue directly, or comment in a thread underneth this part (once the o=issue has been submitted).
+Fill in as much of the below information as you can now. 
+After the event you add your own reflections on your contributions. 
+Please tick the boxes once the relevant information has been provided. 
+You are welcome to write in this section of the issue directly, or comment in a thread underneath this part (once the o=issue has been submitted).
 
 ### What event are you attending
 - [ ] Event name: 
@@ -29,7 +32,7 @@ Fill in as much of the below information as you can now. After the event you add
 
 ### Before the event - About you
 - [ ] Your role in the event: [for example, participant, organiser, host]
-- [ ] Your github username:
+- [ ] Your GitHub username:
 - [ ] Your [ORCID](http://orcid.org/):
 - [ ] Primary Affiliation:
 - [ ] Social links (for example bluesky, LinkedIn):
@@ -41,7 +44,7 @@ Fill in as much of the below information as you can now. After the event you add
 - [ ] Your personal highlight from the event:
 - [ ] A comment about the event which can be quoted in published post-event materials:
 - [ ] Skills or knowledge you acquired through participating:
-- [ ] Outreach or engagement activites you undertook for this event or community (for example, shared promotional materials, orgnaised a talk):
+- [ ] Outreach or engagement activities you undertook for this event or community (for example, shared promotional materials, orgnaised a talk):
 - [ ] How your practice has been changed through participating in this event
 
 ### What happens next

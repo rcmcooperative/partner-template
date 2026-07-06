@@ -1,13 +1,13 @@
 ---
 name: Funding Application
 about: Create an issue for each fund applied for
-title: "[FUNDING]"
+title: "[FUNDING/CONTRACT]"
 labels: ''
 assignees: ''
 
 ---
 
-# Funding application - **FUND NAME**
+# Funding application - **<FUND NAME>**
 
 Link the call/grant information below and check off each item when they are completed. 
 Add further details (for example timelines for interviews or second rounds) and breakout into sub issues where necessary.
@@ -51,6 +51,11 @@ Add further details (for example timelines for interviews or second rounds) and 
 - [ ] above information sent to financemanagement@we-are-ols.org
 - [ ] OLS Invoices Grantor
 - [ ] RCM Coop Invoices OLS
+
+## Contracts
+- [ ] First contract draft received
+- [ ] Contract agreed
+- [ ] OLS FSC contract renewed
 
 ## Reporting
 - [ ] Client report delivered
